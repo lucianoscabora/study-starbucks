@@ -1,2 +1,2 @@
-# estudo-clone-starbucks
-Página clonada do Starbucks.
+# Página clone Starbucks
+Criada apenas para fins educativos.

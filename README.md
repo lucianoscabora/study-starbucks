@@ -1,4 +1,4 @@
-# Starbucks Clone
+# Starbucks - study
 
 This project is a clone of a webpage design for study purpposes.
 

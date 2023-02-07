@@ -1,2 +1,7 @@
-# Página clone Starbucks
-Criada apenas para fins educativos.
+# Starbucks Clone
+
+This project is a clone of a webpage design for study purpposes.
+
+## Stack
+
+**Front-end:** HTML, CSS and JS. 
